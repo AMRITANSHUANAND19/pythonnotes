@@ -1,0 +1,8 @@
+
+>>> char1, char2, char3 = 'cat'
+>>> char1
+'c'
+>>> char2
+'a'
+>>> char3
+'t'
