@@ -1,0 +1,6 @@
+totallengthofeachcurtain = 2.666767686876876
+print("{0:.3f}".format(totallengthofeachcurtain))
+
+
+o/p:2.666
+
