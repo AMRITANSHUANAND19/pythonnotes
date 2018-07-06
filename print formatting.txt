@@ -1,0 +1,4 @@
+curtainwidth = 3.4
+rollwidth =144
+
+print("curtain height required {0},and roll width is {1} ".format(curtainwidth,rollwidth ))
